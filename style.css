@@ -1,0 +1,11 @@
+body {
+    background-color: gainsboro;
+}
+#yup{
+    background-color: black;
+    color: burlywood;
+}
+.yupClass
+{   background-color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
